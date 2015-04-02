@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'adobe-extension-component',
-  version: '0.0.1',
+  name: 'andruschka:adobe-extension-component',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
-  summary: 'The counterpart for using Meteor Apps as Adobe HTML5 Extensions.',
+  summary: 'The counterpart for using Meteor Apps in Adobe CC HTML5 Extensions.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/andruschka/meteor-adobe-extension-component.git',
   // By default, Meteor will default to using README.md for documentation.
